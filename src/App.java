@@ -4,5 +4,3 @@ public class App {
     }
 }
 
-// A Java Development Kit (JDK) is a software development environment 
-// used for developing Java applications
